@@ -1,0 +1,82 @@
+.navbar li{
+float: right;
+list-style: none;
+padding: 3px 3px;
+font-size: 22px;
+margin: 13px 25px;
+}
+.navbar a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: black;
+    margin: 4px  3px;
+    
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+
+}
+.name-highlighter{
+    color: #FF8367;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color:#FE5E50;
+    padding: 15px 50px;
+    margin: auto;
+    border-radius: 5px;
+    width: 20%;
+}
+.About{
+    height:5%;
+    width:32%;
+    margin-left: 11%;
+    padding-left: 2%;
+    padding:160px 50px;
+    float: left;
+}
+
+.About img{
+    float: left;
+    width: 100%;
+
+}
+.team{
+    display: inline-flex;
+    justify-content: center;
+}
+.projects{
+    border: 1px, solid, whitesmoke;
+    border-radius: 20px;
+    margin: 1%;
+    width: 30%;
+    display: inline-block;
+}
+.projects img{
+    width: 100%;
+
+}
+.letest-project {
+    height: 400px;
+
+}
+.jhamela{
+    top: 100%;
+}
+
+.container .btn {
+    background-color:#FE5E50;
+    color: white;
+    width: 5%;
+    height: 3%;
+   
+    
+  }
+.container img{
+    height: 50%;
+    width: 50%;
+}
